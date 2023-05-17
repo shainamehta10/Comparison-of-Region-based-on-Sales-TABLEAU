@@ -1,13 +1,13 @@
 # Comparison-of-Region-based-on-Sales-TABLEAU
-DESCRIPTION
+## DESCRIPTION
 
 The director of a leading organization wants to compare the sales between two regions. He has asked each region operators to record the sales data to compare by region. The upper management wants to visualize the sales data using a dashboard to understand the performance between them and suggest the necessary improvements.
 
-Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
+## Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
 
-Datasets: Sample Superstore
+## Datasets: Sample Superstore
 
-Steps to Perform:
+### Steps to Perform:
 
 [A] Select Sample Superstore as Dataset
 * Use Sample Superstore Dataset * Select Data * Use Group by from Data Source Table on a Folder to create a folder to segregate the required data for Customer Name and Order ID inorder to organize the data thoroughly.
