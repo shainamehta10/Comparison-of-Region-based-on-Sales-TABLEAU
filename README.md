@@ -6,9 +6,10 @@ The director of a leading organization wants to compare the sales between two re
 ## Objective:  
 Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
 
-## Datasets: Sample Superstore
+## Datasets:
+Sample Superstore
 
-### Steps to Perform:
+## Steps to Perform:
 
 [A] Select Sample Superstore as Dataset
 * Use Sample Superstore Dataset * Select Data * Use Group by from Data Source Table on a Folder to create a folder to segregate the required data for Customer Name and Order ID inorder to organize the data thoroughly.
